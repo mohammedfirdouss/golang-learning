@@ -19,7 +19,7 @@ I plan to focus more on **Golang** during this break heading towards the new yea
 - [x] **Loops**  
 - [x] **If-Else Statements**  
 - [x] **Functions**
-- **Maps**  
+- [x] **Maps**  
 - [x] **Structs**
 - [x] **Errors**
 - [x] **Slices**
