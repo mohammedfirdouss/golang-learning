@@ -12,18 +12,18 @@ I have little knowledge of Go, but I want to improve that during this break. Con
 
 I plan to focus more on **Golang** during this break heading towards the new year. My learning goals include:
 
-- **Basics**  [x]
-- **Variables**  [x]
+- [x] **Basics**
+- [x] **Variables**
 - **Arrays**  
 - **Loops**  
 - **If-Else Statements**  
-- **Functions** [x] 
+- [x] **Functions**
 - **Maps**  
-- **Structs** [x] 
-- **Error Handling**
+- [x] **Structs**
+- [x] **Errors**
 - **Packages and Modules**
 - **Concurrency (Goroutines and Channels)**
-- **Interfaces**
+- [x] **Interfaces**
 - **GoRoutines and Channels**
 - **Go Tools and Best Practices**
   
