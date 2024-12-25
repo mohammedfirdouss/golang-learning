@@ -13,7 +13,7 @@ I have little knowledge of Go, but I want to improve that during this break. Con
 I plan to focus more on **Golang** during this break heading towards the new year. My learning goals include:
 
 - **Basics**  [x]
-- **Variables**  
+- **Variables**  [x]
 - **Arrays**  
 - **Loops**  
 - **If-Else Statements**  
