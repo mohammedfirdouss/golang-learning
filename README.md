@@ -17,9 +17,9 @@ I plan to focus more on **Golang** during this break heading towards the new yea
 - **Arrays**  
 - **Loops**  
 - **If-Else Statements**  
-- **Functions**  
+- **Functions** [x] 
 - **Maps**  
-- **Structs**
+- **Structs** [x] 
 - **Error Handling**
 - **Packages and Modules**
 - **Concurrency (Goroutines and Channels)**
