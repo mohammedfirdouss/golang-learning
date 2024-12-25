@@ -10,3 +10,10 @@ package main
 
 var isnumCars = 10 // inferred to be an integer
 
+// Same declarations 
+age, name := 86, "Albert"
+
+// is the same as
+
+age := 86
+name := "Albert"
