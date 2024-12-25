@@ -8,13 +8,13 @@ func main() {
 
     // Add key-value pairs
     myMap["Alice"] = 25
+    myMap["Bob"] = 30
 
     // Access values
-    age, exists := myMap["Alice"]
+    age, exists := myMap["Bob"]
     if exists {
-        fmt.Printf("Alice's age: %d\n", age)
+        fmt.Printf("Bob's age: %d\n", age)
     } else {
         fmt.Println("Key not found")
     }
-
 }
