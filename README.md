@@ -26,7 +26,6 @@ I plan to focus more on **Golang** during this break heading towards the new yea
 - **Packages and Modules**
 - **Concurrency (Goroutines and Channels)**
 - [x] **Interfaces**
-- **GoRoutines and Channels**
 - **Go Tools and Best Practices**
   
 
