@@ -30,9 +30,15 @@ I plan to focus more on **Golang** during this break heading towards the new yea
 
 Additionally, I’ll likely read more articles and videos as I go.
 
-## Vidoes
-[Which is better, compiled or interpreted programming laguages](https://www.youtube.com/watch?v=1CSPb2q94KQ)
+##  Resources
 
+| Video                                                                                               |  |
+|---|---|
+| [Which is better, compiled or interpreted programming laguages](https://www.youtube.com/watch?v=1CSPb2q94KQ) |  |
+| [Slices and Arrays in Go](https://youtu.be/NFF2usIBX-U) |  |
 
 ## Articles
-[Golang HandBook](https://www.freecodecamp.org/news/learn-golang-handbook/)
+
+| Article                                                                                        |  |
+|---|---|
+| [Golang HandBook](https://www.freecodecamp.org/news/learn-golang-handbook/) |  |
