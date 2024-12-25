@@ -12,11 +12,12 @@ I have little knowledge of Go, but I want to improve that during this break. Con
 
 I plan to focus more on **Golang** during this break heading towards the new year. My learning goals include:
 
+## Just the Basics for now, will do projects and learn more with time.
 - [x] **Basics**
 - [x] **Variables**
-- **Arrays**  
-- **Loops**  
-- **If-Else Statements**  
+- [x] **Arrays**  
+- [x] **Loops**  
+- [x] **If-Else Statements**  
 - [x] **Functions**
 - **Maps**  
 - [x] **Structs**
