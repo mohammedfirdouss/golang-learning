@@ -12,7 +12,7 @@ I have little knowledge of Go, but I want to improve that during this break. Con
 
 I plan to focus more on **Golang** during this break heading towards the new year. My learning goals include:
 
-- **Basics**  
+- **Basics**  [x]
 - **Variables**  
 - **Arrays**  
 - **Loops**  
@@ -28,6 +28,11 @@ I plan to focus more on **Golang** during this break heading towards the new yea
 - **Go Tools and Best Practices**
   
 
-Additionally, I’ll likely read more articles as I go.
+Additionally, I’ll likely read more articles and videos as I go.
+
+## Vidoes
+[Which is better, compiled or interpreted programming laguages](https://www.youtube.com/watch?v=1CSPb2q94KQ)
 
 
+## Articles
+[Golang HandBook](https://www.freecodecamp.org/news/learn-golang-handbook/)
