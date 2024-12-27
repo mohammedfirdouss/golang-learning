@@ -23,7 +23,7 @@ I plan to focus more on **Golang** during this break heading towards the new yea
 - [x] **Structs**
 - [x] **Errors**
 - [x] **Slices**
-- **Packages and Modules**
+- [x] **Packages and Modules**
 - **Concurrency (Goroutines and Channels)**
 - [x] **Interfaces**
 - **Go Tools and Best Practices**
